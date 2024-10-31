@@ -2,19 +2,15 @@
 
 ###
 
-<p align="left">My name is Higor Gomes and I'm a System Analyst / Front End Developer from São Paulo, SP.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2018;<br>📚 I'm currently learning React Native;<br>🎯 Goals: Improve more and more my skills in a fun way.</p>
+<p align="left">- System Analyst / Developer Front End<br>- Support Analyst at @algartech.msp</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
