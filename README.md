@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- System Analyst / Developer Front End<br>- Support Analyst at @algartech.msp</p>
+<p align="left">- System Analyst / Systems Development Analyst<br>- Support Analyst - Executive Bilingual at @algartech.msp</p>
 
 ###
 
